@@ -1,9 +1,8 @@
-# PROJECTNAME
+# Active Directory
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+The Active Directory project aimed to establish a foundational understanding of corporate IT infrastructure. This hands-on experience was designed to deepen understanding of Windows networking, core Active Directory functionality, user administration, and enterprise infrastructure design in a controlled home lab environment.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -29,3 +28,6 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+<img width="1230" height="727" alt="image" src="https://github.com/user-attachments/assets/84710ae1-4cb9-4067-ba39-02a3cfaa64cf" />
+<img width="1294" height="805" alt="image" src="https://github.com/user-attachments/assets/d9d5acf0-a2bb-4540-8d62-8aa6170a1236" />
+
