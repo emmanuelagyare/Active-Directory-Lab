@@ -9,7 +9,7 @@ The Active Directory project aimed to establish a foundational understanding of 
 - Proficiency in using Oracle VirtualBox to install, configure, and maintain multiple lab environments.
 - Implemented a PowerShell script to automate bulk user provisioning (creation of over 1,000 accounts).
 - Ability to join Windows 10 to an Active Directory domain and manage client access using domain credentials.
-- Enhanced knowledge in managing user accounts, setting up Organizational Units (OUs), and applying adminstrative best practices.
+- Enhanced knowledge in managing user accounts, setting up Organizational Units (OUs), and applying administrative best practices.
 
 ### Tools Used
 
